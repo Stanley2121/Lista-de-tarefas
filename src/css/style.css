@@ -121,6 +121,7 @@ body {
    display: block !important;    
 }
 
+<<<<<<< HEAD
 .titleEdicao{
     display: flex;
     flex-direction: row;
@@ -131,6 +132,8 @@ body {
     width: 1px;
 }
 
+=======
+>>>>>>> 60b4b5239cbc7e88f2a3464c78e9a944e3bb6b12
 #janelaEdicaoBtnFechar {
     position: absolute;
     top: -25px;
